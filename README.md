@@ -18,7 +18,7 @@
 
 <h1 align="center">:page_with_curl: Descrição do Projeto</h1>
 
-<p>Projeto feito seguindo como base video da <a href="https://www.youtube.com/watch?v=Mf4Se4ZGcG8">Rockeseat</a> ele foi feito com o objetivo do treinamento das ferramentas do React e Css tendo como foco o conceito de Hooks como ContextApi,useRefs,useCallbacks e afins o uso deles foi necessario para a criação da customização do slide da pagina da tesla. </p>
+<p>Projeto feito seguindo como base video da <a href="https://www.youtube.com/watch?v=Mf4Se4ZGcG8">Rockeseat</a> que consiste num clone do site da Tesla.Ele foi feito com o objetivo no treinamento das ferramentas do React e Css tendo como foco o conceito de Hooks como ContextApi,useRefs,useCallbacks e afins o uso deles foi necessario para a criação da customização do slide da pagina da tesla. </p>
 
 
 <h1>:pushpin: Como Usar</h1>
